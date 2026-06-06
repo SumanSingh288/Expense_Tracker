@@ -1,0 +1,345 @@
+[
+    {
+        "id": 1,
+        "date": "2026-06-01",
+        "category": "Food",
+        "amount": 250,
+        "description": "Lunch"
+    },
+    {
+        "id": 2,
+        "date": "2026-06-01",
+        "category": "Transport",
+        "amount": 120,
+        "description": "Bus Fare"
+    },
+    {
+        "id": 3,
+        "date": "2026-06-02",
+        "category": "Shopping",
+        "amount": 850,
+        "description": "T-Shirt"
+    },
+    {
+        "id": 4,
+        "date": "2026-06-02",
+        "category": "Food",
+        "amount": 180,
+        "description": "Snacks"
+    },
+    {
+        "id": 5,
+        "date": "2026-06-03",
+        "category": "Bills",
+        "amount": 1200,
+        "description": "Electricity Bill"
+    },
+    {
+        "id": 6,
+        "date": "2026-06-03",
+        "category": "Entertainment",
+        "amount": 300,
+        "description": "Movie Ticket"
+    },
+    {
+        "id": 7,
+        "date": "2026-06-04",
+        "category": "Food",
+        "amount": 220,
+        "description": "Dinner"
+    },
+    {
+        "id": 8,
+        "date": "2026-06-04",
+        "category": "Transport",
+        "amount": 100,
+        "description": "Auto Fare"
+    },
+    {
+        "id": 9,
+        "date": "2026-06-05",
+        "category": "Shopping",
+        "amount": 1500,
+        "description": "Shoes"
+    },
+    {
+        "id": 10,
+        "date": "2026-06-05",
+        "category": "Food",
+        "amount": 200,
+        "description": "Breakfast"
+    },
+    {
+        "id": 11,
+        "date": "2026-06-06",
+        "category": "Health",
+        "amount": 450,
+        "description": "Medicine"
+    },
+    {
+        "id": 12,
+        "date": "2026-06-06",
+        "category": "Food",
+        "amount": 320,
+        "description": "Restaurant"
+    },
+    {
+        "id": 13,
+        "date": "2026-06-07",
+        "category": "Transport",
+        "amount": 150,
+        "description": "Cab"
+    },
+    {
+        "id": 14,
+        "date": "2026-06-07",
+        "category": "Bills",
+        "amount": 800,
+        "description": "Internet Bill"
+    },
+    {
+        "id": 15,
+        "date": "2026-06-08",
+        "category": "Food",
+        "amount": 170,
+        "description": "Lunch"
+    },
+    {
+        "id": 16,
+        "date": "2026-06-08",
+        "category": "Shopping",
+        "amount": 2200,
+        "description": "Headphones"
+    },
+    {
+        "id": 17,
+        "date": "2026-06-09",
+        "category": "Entertainment",
+        "amount": 500,
+        "description": "Gaming"
+    },
+    {
+        "id": 18,
+        "date": "2026-06-09",
+        "category": "Food",
+        "amount": 210,
+        "description": "Dinner"
+    },
+    {
+        "id": 19,
+        "date": "2026-06-10",
+        "category": "Health",
+        "amount": 350,
+        "description": "Health Checkup"
+    },
+    {
+        "id": 20,
+        "date": "2026-06-10",
+        "category": "Transport",
+        "amount": 90,
+        "description": "Metro Card"
+    },
+    {
+        "id": 21,
+        "date": "2026-06-11",
+        "category": "Food",
+        "amount": 260,
+        "description": "Lunch"
+    },
+    {
+        "id": 22,
+        "date": "2026-06-11",
+        "category": "Bills",
+        "amount": 1500,
+        "description": "Rent Share"
+    },
+    {
+        "id": 23,
+        "date": "2026-06-12",
+        "category": "Shopping",
+        "amount": 950,
+        "description": "Books"
+    },
+    {
+        "id": 24,
+        "date": "2026-06-12",
+        "category": "Food",
+        "amount": 190,
+        "description": "Snacks"
+    },
+    {
+        "id": 25,
+        "date": "2026-06-13",
+        "category": "Entertainment",
+        "amount": 400,
+        "description": "OTT Subscription"
+    },
+    {
+        "id": 26,
+        "date": "2026-06-13",
+        "category": "Transport",
+        "amount": 110,
+        "description": "Bus Pass"
+    },
+    {
+        "id": 27,
+        "date": "2026-06-14",
+        "category": "Food",
+        "amount": 300,
+        "description": "Dinner"
+    },
+    {
+        "id": 28,
+        "date": "2026-06-14",
+        "category": "Health",
+        "amount": 600,
+        "description": "Gym Membership"
+    },
+    {
+        "id": 29,
+        "date": "2026-06-15",
+        "category": "Shopping",
+        "amount": 1800,
+        "description": "Travel Bag"
+    },
+    {
+        "id": 30,
+        "date": "2026-06-15",
+        "category": "Food",
+        "amount": 240,
+        "description": "Breakfast"
+    },
+    {
+        "id": 31,
+        "date": "2026-06-16",
+        "category": "Bills",
+        "amount": 950,
+        "description": "Mobile Recharge"
+    },
+    {
+        "id": 32,
+        "date": "2026-06-16",
+        "category": "Food",
+        "amount": 260,
+        "description": "Lunch"
+    },
+    {
+        "id": 33,
+        "date": "2026-06-17",
+        "category": "Entertainment",
+        "amount": 700,
+        "description": "Concert Ticket"
+    },
+    {
+        "id": 34,
+        "date": "2026-06-17",
+        "category": "Shopping",
+        "amount": 1200,
+        "description": "Jacket"
+    },
+    {
+        "id": 35,
+        "date": "2026-06-18",
+        "category": "Food",
+        "amount": 280,
+        "description": "Dinner"
+    },
+    {
+        "id": 36,
+        "date": "2026-06-18",
+        "category": "Transport",
+        "amount": 140,
+        "description": "Cab Ride"
+    },
+    {
+        "id": 37,
+        "date": "2026-06-19",
+        "category": "Health",
+        "amount": 500,
+        "description": "Dental Checkup"
+    },
+    {
+        "id": 38,
+        "date": "2026-06-19",
+        "category": "Food",
+        "amount": 220,
+        "description": "Breakfast"
+    },
+    {
+        "id": 39,
+        "date": "2026-06-20",
+        "category": "Shopping",
+        "amount": 2700,
+        "description": "Smart Watch"
+    },
+    {
+        "id": 40,
+        "date": "2026-06-20",
+        "category": "Entertainment",
+        "amount": 350,
+        "description": "Bowling"
+    },
+    {
+        "id": 41,
+        "date": "2026-06-21",
+        "category": "Bills",
+        "amount": 1800,
+        "description": "Electricity + Water"
+    },
+    {
+        "id": 42,
+        "date": "2026-06-21",
+        "category": "Food",
+        "amount": 260,
+        "description": "Lunch"
+    },
+    {
+        "id": 43,
+        "date": "2026-06-22",
+        "category": "Transport",
+        "amount": 100,
+        "description": "Metro Fare"
+    },
+    {
+        "id": 44,
+        "date": "2026-06-22",
+        "category": "Shopping",
+        "amount": 1600,
+        "description": "Sports Shoes"
+    },
+    {
+        "id": 45,
+        "date": "2026-06-23",
+        "category": "Health",
+        "amount": 800,
+        "description": "Blood Test"
+    },
+    {
+        "id": 46,
+        "date": "2026-06-23",
+        "category": "Food",
+        "amount": 310,
+        "description": "Restaurant"
+    },
+    {
+        "id": 47,
+        "date": "2026-06-24",
+        "category": "Entertainment",
+        "amount": 450,
+        "description": "Theme Park"
+    },
+    {
+        "id": 48,
+        "date": "2026-06-24",
+        "category": "Bills",
+        "amount": 650,
+        "description": "WiFi Recharge"
+    },
+    {
+        "id": 49,
+        "date": "2026-06-25",
+        "category": "Food",
+        "amount": 290,
+        "description": "Dinner"
+    }
+]
